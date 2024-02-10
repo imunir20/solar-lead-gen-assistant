@@ -7,6 +7,9 @@ from openai import OpenAI
 import functions
 from packaging import version
 
+
+# Credentials file should have 3 lines -- 1st is OPENAI API key, 2nd is GCP Maps Platform API key, 3rd is Airtable API key
+# No extra whitespaces in that file
 credentialsFile = "./credentials.txt"
 apiKeys = ['OPENAI_API_TOKEN', 'GOOGLE_CLOUD_API_KEY', 'AIRTABLE_API_KEY']
 
