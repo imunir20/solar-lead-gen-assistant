@@ -7,7 +7,7 @@ It is able to answer questions on the solar companies' business data and documen
 
 ## Demo
 <img src="images/chatwidget.png" alt="" width="250"/>
-*The chat widget to talk to assistant displayed on the website*
+<i>The chat widget to talk to assistant displayed on the website</i>
 
 
 <img src="images/intro.png" alt="" width="250"/>
