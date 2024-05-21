@@ -13,6 +13,7 @@ It is able to answer questions on the solar companies' business data and documen
 
 <div style="text-align: center; margin-bottom: 20px;">
 <i>Introduction to the conversation with the assistant</i>
+<br>
 <img src="images/intro.png" alt="" width="275"/>
 </div>
 
