@@ -7,28 +7,38 @@ It is able to answer questions on the solar companies' business data and documen
 
 ## Demo
 <div style="text-align: center; margin-bottom: 20px;">
-<p></p><i>The chat widget to talk to assistant displayed on the website</i></p>
+<p><i>The chat widget to talk to assistant displayed on the website</i></p>
 <img src="images/chatwidget.png" alt="" width="275"/>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
 <i>Introduction to the conversation with the assistant</i>
-<br>
 <img src="images/intro.png" alt="" width="275"/>
 </div>
 
+<div style="text-align: center; margin-bottom: 20px;">
 <i>The assistant able to answer a question using its knowledge base about the company</i>
 <img src="images/kb.png" alt="" width="275"/>
+</div>
 
+
+<div style="text-align: center; margin-bottom: 20px;">
 <i>The assistant consuming the customer's data in order to calculate solar savings</i>
 <img src="images/calculation.png" alt="" width="275"/>
+</div>
 
+<div style="text-align: center; margin-bottom: 20px;">
 <i>Snippet of the solar savings report generated using the Google APIs (calculate solar coverage and savings analysis for their location and current bill)</i>
 <img src="images/calculations2.png" alt="" width="275"/>
+</div>
 
+<div style="text-align: center; margin-bottom: 20px;">
 <i>The assistant following the procedure of trying to capture the lead for later conversion</i>
 <img src="images/leadcapture.png" alt="" width="275"/>
+</div>
 
+<div style="text-align: center; margin-bottom: 20px;">
 <i>The assistant successfully adding the lead's data to the company's CRM in Airtable</i>
 <img src="images/airtablecrm.png" alt="" width="750"/>
+</div>
 
