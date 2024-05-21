@@ -7,7 +7,7 @@ It is able to answer questions on the solar companies' business data and documen
 
 ## Demo
 <div style="text-align: center; margin-bottom: 20px;">
-<i>The chat widget to talk to assistant displayed on the website</i>
+<p></p><i>The chat widget to talk to assistant displayed on the website</i></p>
 <img src="images/chatwidget.png" alt="" width="275"/>
 </div>
 
