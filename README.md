@@ -7,3 +7,9 @@ It is able to answer questions on the solar companies' business data and documen
 
 ## Demo
 ![](images/chatwidget.png)
+![](intro.png)
+![](kb.png)
+![](calculation.png)
+![](calculations2.png)
+![](leadcapture.png)
+![](airtablecrm.png)
