@@ -12,33 +12,33 @@ It is able to answer questions on the solar companies' business data and documen
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-<i>Introduction to the conversation with the assistant</i>
+<p><i>Introduction to the conversation with the assistant</i></p>
 <img src="images/intro.png" alt="" width="275"/>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-<i>The assistant able to answer a question using its knowledge base about the company</i>
+<p><i>The assistant able to answer a question using its knowledge base about the company</i></p>
 <img src="images/kb.png" alt="" width="275"/>
 </div>
 
 
 <div style="text-align: center; margin-bottom: 20px;">
-<i>The assistant consuming the customer's data in order to calculate solar savings</i>
+<p><i>The assistant consuming the customer's data in order to calculate solar savings</i></p>
 <img src="images/calculation.png" alt="" width="275"/>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-<i>Snippet of the solar savings report generated using the Google APIs (calculate solar coverage and savings analysis for their location and current bill)</i>
+<p><i>Snippet of the solar savings report generated using the Google APIs (calculate solar coverage and savings analysis for their location and current bill)</i></p>
 <img src="images/calculations2.png" alt="" width="275"/>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-<i>The assistant following the procedure of trying to capture the lead for later conversion</i>
+<p><i>The assistant following the procedure of trying to capture the lead for later conversion</i></p>
 <img src="images/leadcapture.png" alt="" width="275"/>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-<i>The assistant successfully adding the lead's data to the company's CRM in Airtable</i>
+<p><i>The assistant successfully adding the lead's data to the company's CRM in Airtable</i></p>
 <img src="images/airtablecrm.png" alt="" width="750"/>
 </div>
 
