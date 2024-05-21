@@ -11,6 +11,7 @@ It is able to answer questions on the solar companies' business data and documen
 
 
 ![](images/intro.png)
+
 *Introduction to the conversation with the assistant*
 
 
