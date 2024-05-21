@@ -6,11 +6,15 @@ An AI-powered lead-generation virtual assistant for solar companies deployed on 
 It is able to answer questions on the solar companies' business data and documents, calculate solar savings using external APIs, and capture the leads at the end of the conversation updating the data in the company's CRM.
 
 ## Demo
+<div style="text-align: center; margin-bottom: 20px;">
 <i>The chat widget to talk to assistant displayed on the website</i>
 <img src="images/chatwidget.png" alt="" width="275"/>
+</div>
 
+<div style="text-align: center; margin-bottom: 20px;">
 <i>Introduction to the conversation with the assistant</i>
 <img src="images/intro.png" alt="" width="275"/>
+</div>
 
 <i>The assistant able to answer a question using its knowledge base about the company</i>
 <img src="images/kb.png" alt="" width="275"/>
